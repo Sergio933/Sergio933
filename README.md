@@ -41,6 +41,7 @@
 [comment]: <> (ADD 'Overview' hyperlink to the readme fil of the projects where you can explain the aim of them)
 - <b>Tiller by SumUp - Dashboard for Restaurant owners:</b> [Dashboard](https://lookerstudio.google.com/reporting/b2435c0d-6067-460d-b7ef-64581d7457a2), [Code](https://github.com/Sergio933/TillerProject/tree/sergio)
 - <b>Airbnb Analysis - Customer Success team:</b> [Dashboard](https://lookerstudio.google.com/reporting/9baf93a3-eb10-420e-9440-858ae90347e4), [Public Dataset](https://console.cloud.google.com/bigquery?project=lewagon-411310&ws=!1m4!1m3!3m2!1slewagon-411310!2slewagon_airbnb), [Google doc for tasks alignment](https://docs.google.com/document/d/1ZTxK1mKp3Q8a8lAPlQjo-S1WdWcRQus3kwOA6wcYySk/edit?usp=sharing)
+- <b>The complete dbt bootcamp from zero to hero:</b> [Repository](https://github.com/Sergio933/dbtLearning)
 <br/>
 
 📫 How to reach me:
